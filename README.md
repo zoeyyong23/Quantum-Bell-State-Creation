@@ -48,11 +48,10 @@ $\frac{\ket{01}+\ket{10}}{\sqrt2}$ \
 
 To get $\ket{\Psi^-}$, we can modify the circuit we used to get $\ket{\Psi^+}$ and apply a Z gate on qubit 1. This flips its sign. Thus, the system becomes:
 $\frac{\ket{01}-\ket{10}}{\sqrt2}$ \
-
 **Circuit:** \
 ![image](https://github.com/user-attachments/assets/6b020853-2eb1-4f75-9c8b-be3173d3643f)
 
-As a result, we have gotten all four Bell states. \
+As a result, we have gotten all four Bell states. 
 
 Sources: 
 - https://pennylane.ai/qml/glossary/what-are-bell-states
