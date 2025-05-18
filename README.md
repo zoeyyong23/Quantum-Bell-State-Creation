@@ -54,7 +54,7 @@ $\frac{\ket{01}-\ket{10}}{\sqrt2}$ \
 
 As a result, we have gotten all four Bell states. \
 
-Sources: \
+Sources: 
 - https://pennylane.ai/qml/glossary/what-are-bell-states
 - https://en.wikipedia.org/wiki/Bell_state#:~:text=In%20quantum%20information%20science%2C%20the,entangled%20and%20normalized%20basis%20vectors.
 - https://www.quera.com/glossary/bell-state
