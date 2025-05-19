@@ -1,5 +1,4 @@
 # 🔔 Quantum Bell State Creation: A Quantum Entanglement Experiment
-Team member(s): Zoey Yong
 
 # What are Bell States and How Are They Created?
 Bell states (also known as EPR states) are four states of two entangled qubits. This entanglement is caused by superposition of one of the qubits. The four Bell states are shown below:
