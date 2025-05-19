@@ -58,5 +58,6 @@ Sources:
 - https://www.quera.com/glossary/bell-state
 - https://www.aliroquantum.com/blog/what-are-bell-states
 
-
-
+# 🔗 Installation
+Install dependencies using ```pip``` by running:
+```pip install -r requirements.txt```
